@@ -1,0 +1,21 @@
+{
+    "best_experiment": "Exp2_HighLR",
+    "model_name": "t5-small",
+    "model_path": "./cattle_chatbot_final",
+    "training_loss": 1.600632626215617,
+    "validation_loss": 1.0191048383712769,
+    "f1_score": 0.21953669543439835,
+    "rouge1_f1": 0.24641167055562102,
+    "rouge2_f1": 0.06596143110180933,
+    "rougeL_f1": 0.19602191592345697,
+    "training_time_minutes": 136.4295397,
+    "generation_parameters": {
+        "max_new_tokens": 128,
+        "min_length": 10,
+        "num_beams": 4,
+        "temperature": 0.7,
+        "top_k": 50,
+        "top_p": 0.95,
+        "repetition_penalty": 1.2
+    }
+}
