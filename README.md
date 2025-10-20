@@ -3,7 +3,7 @@
 A fine-tuned T5-based conversational AI system specialized in cattle management, health, nutrition, and care.
 
 ## Demo Video
-**Watch the full demonstration:** [INSERT_YOUR_YOUTUBE_LINK_HERE]
+**Watch the full demonstration:** https://drive.google.com/file/d/1oTb2KzyjOlByzqENifOqMlQ-3uWN-BqW/view?usp=sharing
 
 ---
 
