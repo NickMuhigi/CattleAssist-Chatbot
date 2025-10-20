@@ -133,21 +133,17 @@ print(answer)
 
 ## Example Conversations
 
-### Example 1: Disease Diagnosis
-**User:** What is mastitis and how do I treat it?  
-**Bot:** Mastitis is an inflammation of the mammary gland caused by bacterial infection. Treatment includes antibiotics, proper milking hygiene, and isolation of infected animals.
+### Example 1: <img width="1568" height="573" alt="Screenshot 2025-10-20 224623" src="https://github.com/user-attachments/assets/5279e5c8-a2ad-4f23-8d03-290aacb1d9a4" />
 
-### Example 2: Feeding Management
-**User:** How often should I feed my cattle?  
-**Bot:** Cattle should be fed twice daily, with consistent timing. Provide a balanced diet of roughage and concentrates based on production stage.
 
-### Example 3: Vaccination
-**User:** What vaccinations do cattle need?  
-**Bot:** Essential vaccinations include FMD, anthrax, blackleg, brucellosis, and lumpy skin disease. Follow the national vaccination schedule.
+### Example 2: <img width="1565" height="576" alt="Screenshot 2025-10-20 224905" src="https://github.com/user-attachments/assets/2d93c1b9-57cd-420f-868d-e43d631e5776" />
 
-### Example 4: Health Monitoring
-**User:** How do I identify a sick cow?  
-**Bot:** Signs include reduced appetite, lethargy, abnormal temperature, nasal discharge, changes in milk production, and behavioral changes.
+
+### Example 3: <img width="1568" height="580" alt="Screenshot 2025-10-20 225057" src="https://github.com/user-attachments/assets/15ce0413-2f9b-4dfe-a440-6b2c56ed2a5b" />
+
+
+### Example 4:<img width="1562" height="578" alt="Screenshot 2025-10-20 224510" src="https://github.com/user-attachments/assets/86c7a2e9-7557-44cd-9081-1d7040e9c4ba" />
+
 
 ---
 
