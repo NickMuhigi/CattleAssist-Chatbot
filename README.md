@@ -139,9 +139,6 @@ print(answer)
 ### Example 2: <img width="1565" height="576" alt="Screenshot 2025-10-20 224905" src="https://github.com/user-attachments/assets/2d93c1b9-57cd-420f-868d-e43d631e5776" />
 
 
-### Example 3: <img width="1568" height="580" alt="Screenshot 2025-10-20 225057" src="https://github.com/user-attachments/assets/15ce0413-2f9b-4dfe-a440-6b2c56ed2a5b" />
-
-
 ### Example 4:<img width="1562" height="578" alt="Screenshot 2025-10-20 224510" src="https://github.com/user-attachments/assets/86c7a2e9-7557-44cd-9081-1d7040e9c4ba" />
 
 
